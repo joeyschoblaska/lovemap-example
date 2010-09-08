@@ -1,0 +1,3 @@
+An exmaple usage of the Lovemap mapping engine for the Love2d gaming framework written in Lua.
+
+To run this application, first install the Love framework (http://love2d.org/), then run "love ." from the project folder.
