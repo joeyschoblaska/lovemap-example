@@ -1,0 +1,3 @@
+[submodule "lovemap"]
+	path = lovemap
+	url = git://github.com/joeyschoblaska/lovemap.git
